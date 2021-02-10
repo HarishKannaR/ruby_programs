@@ -1,0 +1,1 @@
+puts "Date and time is: " + Time.now.to_s
